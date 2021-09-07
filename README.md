@@ -1,5 +1,5 @@
-<div>
-
+<div style="text-align:center">
+    <img src="https://raw.githubusercontent.com/deyvisonpenha/Vagas-Remotas/master/vagas%20impulso.png" />
 </div>
 Pessoal, dêem uma olhada nessa surra de vagas abertas na Impulso! rsrsrs São todas para início imediato e 100% trabalho remoto. E essa é a lista dos links de todas as oportunidades:
 
